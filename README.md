@@ -1,5 +1,5 @@
 <h1 align="center">GoodByeDPI-Launcher</h1>
-<h2 align="center">Лаунчер для скрипта GoodByeDPI | Launcher for the GoodByDPI script</h2>
-<h3 align="center">Лаунчер для скрипта GoodByeDPI. Лаунчер значительно упрощает работу с GoodByeDPI и позволяет без особых навыков задавать параметры запуска на тот случай, если ваш скрипт не работает с определённым параметром. Лаунчер может помочь тем, чей GoodByeDPI перестал работать.</h3>
+<h2 align="center">Лаунчер для GoodByeDPI | Launcher for the GoodByDPI</h2>
+<h3 align="center">Лаунчер для скрипта GoodByeDPI. Лаунчер значительно упрощает работу с GoodByeDPI и позволяет без особых навыков задавать параметры запуска на тот случай, если ваш скрипт не работает с определённым параметром. Лаунчер может помочь тем, чей GoodByeDPI перестал работать. Лаунчер способен вернуть вас к сервисам, подверженным блокировке, например YouTube или Discord!</h3>
 <h3 align="center">Launcher for the GoodByDPI script. The launcher greatly simplifies working with GoodByDPI and allows you to set launch parameters without any special skills in case your script does not work with a certain parameter. The launcher can help those whose GoodByDPI has stopped working.</h3>
 <h2 align="center"><a href="https://github.com/0netervezer0/GoodByeDPI-Launcher/releases/tag/0.1">Скачать последний релиз | Download the last release</a></h2>
